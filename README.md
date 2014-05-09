@@ -1,0 +1,4 @@
+linq
+====
+
+Tugas LinQ
